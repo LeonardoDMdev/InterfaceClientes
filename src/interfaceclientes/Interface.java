@@ -3,10 +3,7 @@ package interfaceclientes;
 
 import javax.swing.JOptionPane;
 import java.time.LocalDate;
-/**
- *
- * @author leozi
- */
+
 public class Interface extends javax.swing.JFrame {
 
     /**
